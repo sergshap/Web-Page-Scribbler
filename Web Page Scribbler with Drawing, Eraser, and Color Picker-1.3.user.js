@@ -33,7 +33,7 @@
             maximize: 'Maximize'
         },
         ru: {
-            placeholder: 'Напишите свои заметки здесь...',
+            placeholder: 'Напишите свою заметку здесь...',
             clearNotes: 'Очистить заметки',
             brushSize: 'Размер кисти:',
             toggleDrawing: 'Переключить рисование',
