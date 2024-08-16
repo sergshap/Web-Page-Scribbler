@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Notes on websites in the form of text and drawing
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/sergshap/Web-Page-Scribbler/blob/68252de90964c3d40a4d16e4429510cd058f4170/Notes%20on%20websites%20in%20the%20form%20of%20text%20and%20drawing-1.3.user.js
 // @version      1.3
 // @description  Leave text notes and notes in the form of a picture on any pages. Everything is saved automatically, when you re-enter everything is saved.
 // @author       Immortal
